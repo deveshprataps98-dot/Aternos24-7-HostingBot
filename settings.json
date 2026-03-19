@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "TheDragon_SMP_07.aternos.me",
+    "port": 54470,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to ★彡[MADMAX]彡★",
         "I like to play Minecraft!"
       ]
     },
