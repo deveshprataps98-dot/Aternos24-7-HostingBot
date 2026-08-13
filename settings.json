@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheDragon_SMP_07.aternos.me",
-    "port": 54470,
+    "ip": "Exceed07.aternos.me",
+    "port": 53307,
     "version": "1.21.11",
     "try-creative": false
   },
